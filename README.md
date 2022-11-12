@@ -1,2 +1,2 @@
 # RedesNeurolanes
-Neural Networks for Classification Fashion_MNIST
+Proyectos de diseño de redes neuronales 
